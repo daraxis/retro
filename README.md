@@ -1,7 +1,7 @@
 # DayRetro · 随心迹
 
-> **在纯白纸面上记录每天的行动（Did）与思考（Thinking），随时找回过去的自己。**  
-> A calm personal reflection & grounded AI memory workspace initiated by Daria at **Daraxis**.
+> **在纯白纸面上记录每天的行动（Did）与思考（Thinking），经由真实检索与趋势形成持续反馈闭环。**  
+> A calm personal system closing the loop of **Action (`Did`) → Thinking → Grounded Feedback**, initiated by Daria at **Daraxis**.
 
 - **Live Public Demo**: [https://retro.darialan.com/demo](https://retro.darialan.com/demo)
 - **Original Public Source (Mowen / 墨问)**: [Daria 的墨问个人主页](https://note.mowen.cn/user/-HvTNe8K6obWxOULo0Gtg)
@@ -22,7 +22,7 @@ The core application source code is currently private. This public repository se
 
 1. **Separate Facts from Reflection (`Did` vs `Thinking`)**: Keep what actually happened distinct from what you thought or felt about it, so reviewing months later stays honest and structured.
 2. **Quiet Paper, Low Friction**: Minimal interface with zero gamification noise—write a few honest lines every day rather than forcing long essays.
-3. **Grounded AI Memory**: When asking AI about your past (*"What did I work on last month?"* or *"What insights kept recurring?"*), answers should retrieve and cite real dated entries (`[[R1]]`) instead of fabricating generic advice.
+3. **Grounded Feedback Loop**: Record what happened, reflect independently, then query across months with grounded citations (`[[R1]]`) and trend views so reflection turns into real feedback for your next action.
 
 ## Feedback & Community
 
