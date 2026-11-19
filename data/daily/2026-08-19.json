@@ -1,0 +1,8 @@
+{
+  "date": "2026-08-19",
+  "did": "- 观察 claude code、opencode 等 Agent 仍然习惯性地说「这个先做，另外两个排 ticket 跟进」，甚至估时间、建里程碑\n- 禁用 Superpowers skill，改写《Agent 不需要沿用人类的排期方式》",
+  "thinking": "### Agent 不需要照搬人类程序员的项目管理方式\n\n人类程序员需要 Ticket、Jira、排期这套方式，但对于 Agent，开发速度快、可以 24 小时干活，所以接到任务之后其实可以一口气把几个改进项继续做完。\n\n### 关键是区分哪些决策该由 Agent 做\n\n从表象上看，Agent 说「排 ticket 跟进」更像是想把这个决策权交给人类。但是对于低风险、目标明确的实现问题，不应该给人类增加决策负担，不然就说明 Agent 还不够 Agent。\n\n### Agent 和模型能力越来越强，约束方式也应该变\n\n现在我更倾向于写适当的 agent 文档约束和 skills。\n\n### 反思与不足 (Bad)\n\nSuperpowers 太重了。哪怕只是一个很小的改动，它也要开始 brainstorm、写 Spec、test driven 开发。这个过程本身并不是没价值，但和任务大小不匹配的时候，反而会增加很多摩擦。",
+  "sourceUrls": [
+    "https://note.mowen.cn/detail/GeOlpDpQ26w5S6DA5uImb"
+  ]
+}

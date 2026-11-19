@@ -1,0 +1,9 @@
+{
+  "date": "2026-07-02",
+  "did": "- 在 Notion 上坚持了 8 个月的极简复盘模板，每天只记录 Did、Bad、Thinking 三项\n- 基于 Claude Code Skills 搭了一套 Daily Retro 趋势分析与交互式报告工作流，能把零散复盘条目自动拉取、聚合、可视化\n- 写下《个人复盘报表》这篇分享文章",
+  "thinking": "### 5 个 Skill 串成一条完整链路\n\ndaily-retro-workflow 做核心编排器，下面依次是 ingest（从 Notion 拉取 → 标准化 → 写 index）、analysis（关键词抽取 + LLM 主题/情绪/行动分类 → 按周期聚合）、report（LLM 写解读 → Markdown + 合成 JSON）、visual-report（渲染自包含的交互式 HTML）。每个产物都能从 Notion 重新生成。\n\n### 最终效果是自包含的单文件 HTML\n\n含图表 + 可点击证据链，打开就能看趋势图、洞察卡片，以及一路深链回 Notion 原文的证据浏览器。\n\n### 整理这两年的情况\n\n1. 日常焦虑职业和个人成长\n2. 人际关系考虑得很少",
+  "sourceUrls": [
+    "https://note.mowen.cn/detail/oMHUyRlPcmhWfmwj3Phk3",
+    "https://note.mowen.cn/detail/XRfLG1pQZSj-D5HFsWUT0"
+  ]
+}

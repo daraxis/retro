@@ -1,0 +1,8 @@
+{
+  "date": "2026-04-25",
+  "did": "- 散步、睡觉、刷了很多短视频",
+  "thinking": "### Compound Engineering 的核心：让下一次需求不必从 0 出发\n\n和 SpecKit 的本质差别是定义了一套\"复利\"方法，通过持续积累上下文让下一次不必从 0 出发。核心动作 4 个：规划、评审、复盘、沉淀。主循环是 ce-ideate / ce-brainstorm → ce-plan → ce-work → ce-code-review / ce-doc-review → ce-compound，下次工作复用这些上下文。实现层用 skills 和 agents，agents 定义工作流，工作流定义产出（brainstorms, plans, solutions 等）。三个机制：先想清楚再实现（ce-brainstorm + ce-plan 把模糊需求变成可执行计划）；多代理评审（按 correctness/security/performance/testing/API/migration 派 reviewer agents）；把经验写下来（ce-compound 沉淀到 docs/solutions/，ce-learnings-researcher 可检索）；复用历史上下文（session history、git history、issue、Slack、web docs）。\n\n### 看清 AI 的分层之后，发现链式传递的不确定性\n\n了解 compound engineering 才真正看懂 AI 的分层：顶层是应用层的人（一线开发/架构师）用模型，他们利用 Claude Code 这种 Agent CLI 提供的 Skills/Agent/Prompt 去定义规范和最佳实践造出工具（SpecKit、Compound Engineering）；下一层是 Chatbot/Claude Code/Agent（核心理念 Agent Loop）；再下是 AI Infra（数据、训练、推理、部署、运维）；最下是 Transformer 这种深度学习架构层。每一层都有自己的边界前提和工具基础，链式传递变化非常快且不确定——你一套经验现在还有用、过几个月就已经过时。",
+  "sourceUrls": [
+    "https://note.mowen.cn/detail/SngHAm3DtlgcQo9cygSMi"
+  ]
+}
