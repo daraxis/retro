@@ -1,21 +1,20 @@
-# DayRetro · 随心迹
+# DayRetro
 
-> **在纯白纸面上记录每天的行动（Did）与思考（Thinking），经由真实检索与趋势形成持续反馈闭环。**  
-> A calm personal system closing the loop of **Action (`Did`) → Thinking → Grounded Feedback**, initiated by Daria at **Daraxis**.
+> A calm personal system closing the loop of **Action (`Did`) → Thinking → Grounded Feedback**.
 
 - **Live Public Demo**: [https://retro.darialan.com/demo](https://retro.darialan.com/demo)
-- **Original Public Source (Mowen / 墨问)**: [Daria 的墨问个人主页](https://note.mowen.cn/user/-HvTNe8K6obWxOULo0Gtg)
+- **Original Public Source**: [Daria's Mowen Profile](https://note.mowen.cn/user/-HvTNe8K6obWxOULo0Gtg) *(Chinese)*
 - **Organization**: [@daraxis](https://github.com/daraxis)
 
 ---
 
 ## What is in this repository?
 
-The core application source code is currently private. This public repository serves as the open window into DayRetro's **philosophy**, **build-in-public essays**, and **real personal reflection dataset** powering the live read-only demo.
+The core application codebase is currently private. This repository serves as the public window into DayRetro's **design philosophy**, **build-in-public essays**, and the **real daily dataset** powering the live read-only demo.
 
 | Directory | Description |
 | --- | --- |
-| [`data/`](./data/README.md) | Real daily `Did` & `Thinking` entries (91 days from `2026-01-02` to `2026-11-14`), incrementally synced from Daria's public Mowen profile. |
+| [`data/`](./data/README.md) | Real daily `Did` & `Thinking` entries (91 days from `2026-01-02` to `2026-11-14`, in Chinese), incrementally synced from the public Mowen profile. |
 | [`blog/`](./blog/README.md) | Product philosophy notes, daily reflection principles, and build-in-public essays. |
 
 ## Core Philosophy
@@ -26,5 +25,5 @@ The core application source code is currently private. This public repository se
 
 ## Feedback & Community
 
-- Found an idea, dataset question, or feature request? Open an [Issue](https://github.com/daraxis/retro/issues).
-- If this methodology or open reflection dataset resonates with you, consider leaving a **Star** to follow along.
+- Have an idea, dataset question, or feature request? Open an [Issue](https://github.com/daraxis/retro/issues).
+- If this open dataset or closed-loop reflection workflow resonates with you, consider leaving a **Star** to follow along.
